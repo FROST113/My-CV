@@ -1,0 +1,36 @@
+
+.imgBackground {
+    background-color: black;
+    text-align: center;
+    background-image: url(/images/135806122_396317044969495_4030486684555381102_n.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 0px 0px 10px 10px;
+}
+
+img.profilePhoto {
+    width: 25%;
+    height: auto;
+    border-radius: 50%;
+    margin: 25px auto;
+    background-color: black;
+  }
+
+  ul.myList {
+    list-style: none;
+    padding: 0px;
+}
+
+i.fa-brands.fa-linkedin {
+    font-size: 90px;
+    color: #0072b1;
+}
+
+a.myLink {
+    color: black;
+}
+
+a.myLink:hover {
+    color: darkblue;
+}
